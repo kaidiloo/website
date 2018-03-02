@@ -35,9 +35,9 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral research fellow in the Department of Linguistics at the University of Alberta, working with Juhani Järvikivi on projects on the processing of complex words and on the reduction of referring expressions in spontaneous spoken dialogue. The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.
+I am a postdoctoral research fellow at the [Centre for Comparitative Psycholinguistics](http://ccp.artsrn.ualberta.ca/), in the [Department of Linguistics](https://www.ualberta.ca/linguistics) at the University of Alberta, working with [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) on projects on the processing of complex words and on the reduction of referring expressions in spontaneous spoken dialogue. The position is funded by the [Words in the World](http://wordsintheworld.ca/) SSHRC Partnered Research Training Initiative.
 
-In my PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, I used large-scale item design and advanced statistical as well as experimental methods to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.
+In my PhD dissertation, completed under the supervision of [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [R. Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/), I used large-scale item designs and advanced statistical as well as experimental methods to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.
 
-I am also collaborating with Pärtel Lippus and Nele Põldver on a sentence reading study, looking at how word-level ambiguity is resolved on a sentence level. In addition, I have been involved in a machine learning project with Sowmya Vajjala, implementing an Estonian proficiency level classificator for Estonian as a second language.
+I am also collaborating with [Pärtel Lippus](http://www.murre.ut.ee/~partel/) and Nele Põldver on a sentence reading study, looking at how word-level ambiguity is resolved on a sentence level. In addition, I have been involved in a machine learning project with [Sowmya Vajjala](http://sowmya.public.iastate.edu/), implementing an Estonian proficiency level classificator for Estonian as a second language.
  
