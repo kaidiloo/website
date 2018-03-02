@@ -27,7 +27,7 @@ weight = 5
   year = 2013
 
 [[education.courses]]
-  course = "BA in Estonian and Finno-Ugric Languages"
+  course = "BA in Estonian and Finno-Ugric Linguistics"
   institution = "University of Tartu, Estonia"
   year = 2010
  
@@ -35,8 +35,7 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral research fellow in the Department of Linguistics at the University of Alberta, working with Juhani Järvikivi on projects on the reduction of referring expressions in spontaneous spoken dialogue (in collaboration with Benjamin V. Tucker and Anja Arnhold) and on the processing of complex words (in collaboration with Gary Libben). The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
-
+I am a postdoctoral research fellow in the Department of Linguistics at the University of Alberta, working with Juhani Järvikivi on projects on the reduction of referring expressions in spontaneous spoken dialogue and on the processing of complex words. The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
 In my PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, I used a wide range advanced statistical and experimental methods to investigate how adult native speakers of Estonian comprehend and produce morphologically complex words.
 
 I also am collaborating with Pärtel Lippus and Nele Põldver on a sentence reading project, looking at how word-level ambiguity in Estonian is resolved on a sentence level. In addition, I have been involved in a machine learning project, where Sowmya Vajjala and me implemented an Estonian proficiency level classificator for Estonian as a second language.
