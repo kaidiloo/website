@@ -39,5 +39,5 @@ I am a postdoctoral research fellow in the Department of Linguistics at the Univ
 
 In my PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, I used a wide range advanced statistical and experimental methods to investigate how adult native speakers of Estonian comprehend and produce morphologically complex words.
 
-In addition, I am collaborating on a Estonian sentence reading project with Pärtel Lippus and Nele Põldver, looking at how word-level ambiguity is resolved on a sentence level, and I have been involved in a machine learning project, where I together with Sowmya Vajjala implemented an Estonian proficiency level classificator for Estonian as a second language.
+I also am collaborating with Pärtel Lippus and Nele Põldver on a sentence reading project, looking at how word-level ambiguity in Estonian is resolved on a sentence level. In addition, I have been involved in a machine learning project, where Sowmya Vajjala and me implemented an Estonian proficiency level classificator for Estonian as a second language.
  
