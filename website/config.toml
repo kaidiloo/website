@@ -260,10 +260,20 @@ name = "Publications"
 url = "#publications"
    weight = 2
 
+[[menu.main]]
+  name = "Presentations"
+  url = "#presentations"
+  weight = 3
+
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
+
+[[menu.main]]
+  name = "Media"
+  url = "#media"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Projects"
@@ -274,6 +284,11 @@ url = "#publications"
 #  name = "Teaching"
 #  url = "#teaching"
 #  weight = 5
+
+[[menu.main]]
+  name = "CV"
+  url = "#CV"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
