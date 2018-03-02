@@ -271,9 +271,14 @@ url = "#publications"
 #  weight = 3
 
 [[menu.main]]
+  [name = "CV"]
+  url = "#CV"
+  weight = 4
+
+[[menu.main]]
   name = "Media"
   url = "#media"
-  weight = 4
+  weight = 5
 
 #[[menu.main]]
 #  name = "Projects"
@@ -285,10 +290,6 @@ url = "#publications"
 #  url = "#teaching"
 #  weight = 5
 
-[[menu.main]]
-  name = "CV"
-  url = "#CV"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
