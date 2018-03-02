@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral research fellow at the [Centre for Comparitative Psycholinguistics](http://ccp.artsrn.ualberta.ca/), in the [Department of Linguistics](https://www.ualberta.ca/linguistics) at the University of Alberta, working with [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) on projects on the processing of complex words and on the reduction of referring expressions in spontaneous spoken dialogue. The position is funded by the [Words in the World](http://wordsintheworld.ca/) SSHRC Partnered Research Training Initiative.
+I am a postdoctoral research fellow in the [Centre for Comparitative Psycholinguistics](http://ccp.artsrn.ualberta.ca/), [Department of Linguistics](https://www.ualberta.ca/linguistics) at the University of Alberta, working with [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) on projects on the processing of complex words and on the reduction of referring expressions in spontaneous spoken dialogue. The position is funded by the [Words in the World](http://wordsintheworld.ca/) SSHRC Partnered Research Training Initiative.
 
 My PhD dissertation completed under the supervision of [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [R. Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/) applied large-scale item designs, behavioural methods and eye tracking as well as advanced statistics  to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.
 
