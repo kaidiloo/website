@@ -12,10 +12,10 @@
     
     <item>
       <title>Whole-word frequency and inflectional paradigm size facilitate Estonian case-inflected noun processing</title>
-      <link>/presentation/cognition/</link>
+      <link>/presentation/test/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentation/cognition/</guid>
+      <guid>/presentation/test/</guid>
       <description></description>
     </item>
     
@@ -30,15 +30,6 @@
     
     <item>
       <title>Production of Estonian case-inflected nouns shows whole-word frequency and paradigmatic effects</title>
-      <link>/presentation/morphology/</link>
-      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/presentation/morphology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Production of Estonian case-inflected nouns shows whole-word frequency and paradigmatic effects</title>
       <link>/publication/morphology/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -48,21 +39,32 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>/talk/aas/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>/talk/aas/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Individual differences in pupil dilation during naming task</title>
-      <link>/presentation/cogsci/</link>
-      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <title>Example Talk</title>
+      <link>/talk/amlap/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>/presentation/cogsci/</guid>
-      <description></description>
+      <guid>/talk/amlap/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/eta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/eta/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
     <item>
