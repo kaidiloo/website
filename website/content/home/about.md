@@ -35,9 +35,9 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral research fellow in the Department of Linguistics at the University of Alberta, working with Juhani Järvikivi on projects on the reduction of referring expressions in spontaneous spoken dialogue and on the processing of complex words. The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
+I am a postdoctoral research fellow in the Department of Linguistics at the University of Alberta, working with Juhani Järvikivi on projects on the reduction of referring expressions in spontaneous spoken dialogue (in collaboration with Benjamin V. Tucker and Anja Arnhold) and on the processing of complex words (in collaboration with Gary Libben). The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
 
-My PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, investigated how native speakers of Estonian from a wide age range comprehend and produce morphologically complex words in Estonian.
+In my PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, I used a wide range advanced statistical and experimental methods to investigate how adult native speakers of Estonian comprehend and produce morphologically complex words.
 
-In addition, I am collaborating on an eye-tracking project with Pärtel Lippus and Nele Põldver, looking at how Estonian word-level ambiguity is resolved on a sentence level, and I have been involved in a project with Sowmya Vajjala and Pille Eslon, implementing an Estonian proficiency level classificator for Estonian as a second language using machine learning techniques.
+In addition, I am collaborating on a Estonian sentence reading project with Pärtel Lippus and Nele Põldver, looking at how word-level ambiguity is resolved on a sentence level, and I have been involved in a machine learning project, where I together with Sowmya Vajjala implemented an Estonian proficiency level classificator for Estonian as a second language.
  
