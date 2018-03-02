@@ -19,7 +19,7 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "AAAS_poster_abstract"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
