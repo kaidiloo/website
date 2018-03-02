@@ -1,6 +1,6 @@
 +++
-title = "Whole-word frequency and in paradigm size facilitate Estonian case-inflected noun processing"
-date = "2018-09-01"
+title = "Whole-word frequency and inflectional paradigm size facilitate Estonian case-inflected noun processing"
+date = "2018-02-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kaidi Lõo", "Juhani Järvikivi", "R. Harald Baayen"]
@@ -17,7 +17,7 @@ authors = ["Kaidi Lõo", "Juhani Järvikivi", "R. Harald Baayen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
+publication = "In *Cognition*, 175, 20-25."
 publication_short = "In *Cognition*"
 
 # Abstract and optional shortened version.
@@ -37,7 +37,7 @@ selected = false
 
 # Links (optional).
 #url_pdf = "http://arxiv.org/pdf/1512.04133v1"
-url_preprint = "https://sites.ualberta.ca/~jarvikiv/images/Whole-word_frequency_and_inflectional_pa.pdf"
+url_preprint = "http://www.sfs.uni-tuebingen.de/~hbaayen/publications/LooJaervikiviBaayen2018.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -45,12 +45,13 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+url_custom = [{name = "Journal link", url = "https://doi.org/10.1016/j.cognition.2018.02.002"}]
 
 # Does the content use math formatting?
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
