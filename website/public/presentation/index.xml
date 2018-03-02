@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Kaidi Lõo</title>
+    <link>/presentation/</link>
+    <description>Recent content in Publications on Kaidi Lõo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2018 Kaidi Lõo. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whole-word frequency and inflectional paradigm size facilitate Estonian case-inflected noun processing</title>
+      <link>/presentation/cognition/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production of Estonian case-inflected nouns shows whole-word frequency and paradigmatic effects</title>
+      <link>/presentation/morphology/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation/morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences in pupil dilation during naming task</title>
+      <link>/presentation/cogsci/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation/cogsci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
