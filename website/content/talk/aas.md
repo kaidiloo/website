@@ -6,7 +6,7 @@ title = "Pupil dilation as a window to Estonian lexical processing."
 #time_end = 2010-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Poster. The Annual Meeting of American Association for the Advancement of Science (AAAS)"
+event = "Poster. The Annual Meeting of American Association for the Advancement of Science (AAAS)."
 event_url = "https://www.aaas.org/"
 location = "Boston, Massachusetts"
 

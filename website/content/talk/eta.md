@@ -6,7 +6,7 @@ time_start = 2018-01-05T13:00:00
 time_end = 2018-01-05T15:00:00
 abstract = "Minu psühholingvistika-alane doktoritöö on traditsiooniliste valdkondade, keeleteadus, psühholoogia ja infotehnoloogia, piirimaal ning ühendab suured andmemahud, arvutusliku modelleerimise ja laiaulatuslikud eksperimendid, et uurida kuidas inimkeel toimib eesti keele näitel. Eesti keel on tänuväärne uurimisallikas, sest see on nii struktuuriliselt keerukas kui ka suhteliselt läbipaistmatu. Kaks suuremahulist leksikaalse otsuse ja sõna nimetamise katse tulemust näitasid, et keelelisest keerukusest ja kasutamisest tulenev elukestev kogemus keelega aitavad kõige paremini ennustada nii keele mõistmist kui ka rääkimist. Kõige täpsemaid teadmisi nendesse protsessidesse andsid traditsiooniliste käitumismeetodite ühendamine (reaktsiooniajad, rääkimisaja algus ja kestvus) hiljutiste edusammudega silmaseire ja pupilli suuruse uurimise vallas."
 abstract_short = ""
-event = "Noorteadlased Eestis ja välismaal. XXI sajandi väljakutsed"
+event = "Noorteadlased Eestis ja välismaal. XXI sajandi väljakutsed."
 event_url = "http://noorteadlased.ee/"
 location = "Eesti Teaduste Akadeemia, Tallinn"
 
