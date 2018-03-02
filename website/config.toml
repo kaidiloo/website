@@ -261,7 +261,7 @@ url = "#publications"
    weight = 2
 
 [[menu.main]]
-  name = "Presentations"
+  name = "Talks"
   url = "#talks"
   weight = 3
 
