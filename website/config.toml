@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Department of Linguistics, University of Alberta", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "kaidi3.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "kaidi.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kloo at ualberta dot ca"
   address = "4-32 Assiniboia Hall, University of Alberta, Edmonton, AB T6G 2E7, Canada"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
