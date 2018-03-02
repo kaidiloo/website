@@ -272,7 +272,7 @@ url = "#publications"
 
 [[menu.main]]
   name = "CV"
-  url = "#CV"
+  url = "/files/CV_Lõo.pdf"
   weight = 4
 
 [[menu.main]]
