@@ -271,7 +271,7 @@ url = "#publications"
 #  weight = 3
 
 [[menu.main]]
-  [name = "CV"]
+  name = "CV"
   url = "#CV"
   weight = 4
 
