@@ -37,8 +37,8 @@ weight = 5
 
 I am a postdoctoral research fellow in the Department of Linguistics, at the University of Alberta, working with Juhani Järvikivi on projects on the reduction of referring expressions in spontaneous spoken dialogue and on the processing of complex words. The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
 
-My PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, investigated how native speakers of Estonian from a wide age range comprehend and produce morphologically complex words in Estonian, using multiple  statistical (e.g., generalized additive mixed effects and quantile regression) and experimental methods (e.g., word naming, lexical decision, pupillometry). 
+My PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, investigated how native speakers of Estonian from a wide age range comprehend and produce morphologically complex words in Estonian.
 
-I am also collaborating on an eye-tracking study with Pärtel Lippus and Nele Põldver, where we look at how Estonian word-level ambiguity is resolved on a sentence level. 
-Furthermore, I have been also involved in a project with Sowmya Vajjala and Pille Eslon, where we implemented an Estonian proficiency level classificator for Estonian as a second language texts.
+In addition, I am collaborating on an eye-tracking project with Pärtel Lippus and Nele Põldver, where we look at how Estonian word-level ambiguity is resolved on a sentence level. 
+Furthermore, I have been involved in a project with Sowmya Vajjala and Pille Eslon, where we using machine learning techniques implemented an Estonian proficiency level classificator for Estonian as a second language texts.
  
