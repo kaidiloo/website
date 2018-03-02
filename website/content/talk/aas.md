@@ -6,7 +6,7 @@ title = "Pupil dilation as a window to Estonian lexical processing."
 #time_end = 2010-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "The Annual Meeting of American Association for the Advancement of Science (AAAS)"
+event = "Poster. The Annual Meeting of American Association for the Advancement of Science (AAAS)"
 event_url = "https://www.aaas.org/"
 location = "Boston, Massachusetts"
 
@@ -19,7 +19,7 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/AAAS_Poster_Lõo.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -37,5 +37,4 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
-
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+.
