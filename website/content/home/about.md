@@ -35,10 +35,10 @@ weight = 5
 
 # Biography
 
-I am currently a postdoctoral research fellow in the Department of Linguistics, at the University of Alberta, working with Dr. Juhani Järvikivi. The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
+I am a postdoctoral research fellow in the Department of Linguistics, at the University of Alberta, working with Juhani Järvikivi on projects on the reduction of referring expressions in spontaneous spoken dialogue and on the processing of complex words. The position is funded by the Words in the World SSHRC Partnered Research Training Initiative.   
 
-My PhD dissertation, completed under the supervision of Dr. Juhani Järvikivi and Dr. R. Harald Baayen, investigated how native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.
+My PhD dissertation, completed under the supervision of Juhani Järvikivi and R. Harald Baayen, investigated how native speakers of Estonian from a wide age range comprehend and produce morphologically complex words in Estonian, using multiple  statistical (e.g., generalized additive mixed effects and quantile regression) and experimental methods (e.g., word naming, lexical decision, pupillometry). 
 
-In addition to my interest in morphological processing, I am also collaborating on two eye-tracking projects, where we look at how concreteness ratings affect the processing of Estonian adjectives, and how word-level ambiguity is resolved in Estonian sentence processing.
-Furthermore, my research interests include Estonian as a second language. Using machine learning techniques, I have been involved in a project implementing an automatic proficiency level classificator for Estonian as a second language texts.
+I am also collaborating on an eye-tracking study with Pärtel Lippus and Nele Põldver, where we look at how Estonian word-level ambiguity is resolved on a sentence level. 
+Furthermore, I have been also involved in a project with Sowmya Vajjala and Pille Eslon, where we implemented an Estonian proficiency level classificator for Estonian as a second language texts.
  
