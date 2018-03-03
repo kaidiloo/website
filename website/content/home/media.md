@@ -15,6 +15,6 @@ weight = 60
 
 +++
 
-- A story for the Estonian journal [Mari](http://www.ajakirimari.ee/1272.htm) (September, 2016) about my research and life as a graduate student in Canada.
+- A story in the Estonian journal [Mari](http://www.ajakirimari.ee/1272.htm) (September, 2016) about my research and life as a PhD student in Canada.
 
-- A story about psycholinguistics, eye tracking and my PhD research for the Estonian research news portal [Novaator](https://novaator.err.ee/686921/eesti-noorteadlane-uuris-kanadas-pilke-jalgides-eestlaste-keelekasutust) (March, 2018).
+- A story about psycholinguistics, eye tracking and my PhD research on the Estonian research news portal [Novaator](https://novaator.err.ee/686921/eesti-noorteadlane-uuris-kanadas-pilke-jalgides-eestlaste-keelekasutust) (March, 2018).
