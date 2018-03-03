@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Psycholinguistics",
     "Morphology",
-    "Quanititative Linguistics"
+    "Quantitative linguistics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,9 +35,9 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral research fellow at the [Centre for Comparitative Psycholinguistics](http://ccp.artsrn.ualberta.ca/) at the [Department of Linguistics](https://www.ualberta.ca/linguistics) of the University of Alberta, working with [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and in collaboration with  [Gary Libben](https://brocku.ca/social-sciences/applied-linguistics/people/gary-libben/) as well as [Anja Arnhold](https://sites.ualberta.ca/~arnhold/) and [Benjamin V. Tucker](https://sites.ualberta.ca/~bvtucker/) on projects on the processing of complex words and on the reduction of referring expressions in spontaneous spoken dialogue. The position is funded by the [Words in the World](http://wordsintheworld.ca/) SSHRC Partnered Research Training Initiative.
+I am a postdoctoral research fellow at the [Centre for Comparative Psycholinguistics](http://ccp.artsrn.ualberta.ca/) at the [Department of Linguistics](https://www.ualberta.ca/linguistics) of the University of Alberta, working with [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and in collaboration with  [Gary Libben](https://brocku.ca/social-sciences/applied-linguistics/people/gary-libben/) as well as [Anja Arnhold](https://sites.ualberta.ca/~arnhold/) and [Benjamin V. Tucker](https://sites.ualberta.ca/~bvtucker/) on projects on the processing of complex words and on the reduction of referring expressions in spontaneous spoken dialogue. The position is funded by the [Words in the World](http://wordsintheworld.ca/) SSHRC Partnered Research Training Initiative.
 
-[My PhD dissertation](/files/Lõo_Dissertation.pdf), supervised by [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [R. Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/), combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.
+My [PhD dissertation](/files/Lõo_Dissertation.pdf), supervised by [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [R. Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/), combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.
 
-I am also collaborating with [Pärtel Lippus](http://www.murre.ut.ee/~partel/) and Nele Põldver on a sentence reading study, looking at how word-level ambiguity is resolved on the sentence level and with Aki-Juhani Kyröläinen on an eye tracking study looking at concreteness norms of Estonian adjectives. In addition, I have been involved in a machine learning project with [Sowmya Vajjala](http://sowmya.public.iastate.edu/), in collaboration with Pille Eslon implementing an Estonian proficiency level classifier for Estonian as a second language.
+I am also collaborating with [Pärtel Lippus](http://www.murre.ut.ee/~partel/) and Nele Põldver on a sentence reading study, looking at how word-level ambiguity is resolved on the sentence level and with Aki-Juhani Kyröläinen on an eye tracking study looking at concreteness of Estonian adjectives. In addition, I have been involved in a machine learning project with [Sowmya Vajjala](http://sowmya.public.iastate.edu/), in collaboration with Pille Eslon implementing an Estonian proficiency level classifier for Estonian as a second language.
  
