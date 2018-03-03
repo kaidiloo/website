@@ -7,7 +7,7 @@ title = "Pupil dilation as a window to Estonian lexical processing."
 abstract = ""
 abstract_short = ""
 event = "Poster. The Annual Meeting of American Association for the Advancement of Science (AAAS)."
-event_url = "https://www.aaas.org/"
+event_url = "http://meetings.aaas.org/"
 location = "Boston, Massachusetts"
 
 # Is this a selected talk? (true/false)

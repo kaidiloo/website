@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Psycholinguistics",
     "Morphology",
-    "Quantitative linguistics"
+    "Quantitative Methods"
   ]
 
 # List your qualifications (such as academic degrees).
