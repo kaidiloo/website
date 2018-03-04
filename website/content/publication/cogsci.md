@@ -36,7 +36,7 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://mindmodeling.org/cogsci2016/papers/0106/paper0106.pdf"
 #url_preprint = "https://mindmodeling.org/cogsci2016/papers/0106/paper0106.pdf"
 url_code = ""
 url_dataset = ""
