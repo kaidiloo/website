@@ -9,7 +9,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 keywords = ["kaidi lõo", "kaidi loo"]
-description = "Personal website"
+description = "Kaidi Lõo's Academic website"
 # Title of your site
 title = "Kaidi Lõo"
 
