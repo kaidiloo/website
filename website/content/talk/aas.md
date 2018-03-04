@@ -19,7 +19,8 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "/files/AAAS_Poster_Lõo.pdf"
+#url_pdf = "/files/AAAS_Poster_Lõo.pdf"
+url_custom = [{name = "Poster in pdf format", url = "/files/AAAS_Poster_Lõo.pdf"}]
 url_slides = ""
 url_video = ""
 url_code = ""

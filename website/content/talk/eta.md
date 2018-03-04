@@ -19,7 +19,8 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "/files/TA-Konverents-Lõo.pdf"
+#url_pdf = "/files/TA-Konverents-Lõo.pdf"
+url_custom = [{name = "Slides in pdf format", url = "/files/TA-Konverents-Lõo.pdf"}]
 url_slides = ""
 url_video = ""
 url_code = ""
