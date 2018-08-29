@@ -65,7 +65,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kaidi.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kloo at ualberta dot ca"
-  address = "Room 103, Arts and Convocation Hall, University of Alberta, Edmonton, Alberta T6G 2E6, Canada"
+  address = "Psychology General Office P217 Biological Sciences Building Edmonton, Alberta, Canada T6G 2E9"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = "kaidiloo"
@@ -99,8 +99,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "53.526714"
-  longitude = "-113.522356"
+  latitude = "53.529169" 
+  longitude = "-113.525535"
   zoom = 16
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
