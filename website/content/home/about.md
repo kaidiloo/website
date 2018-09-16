@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am currently a postdoctoral research fellow at the [Complex Cognition Lab](https://sites.ualberta.ca/~cgagne/ComplexCognitionLab/Main.html) at the [Department of Psychology](https://www.ualberta.ca/psychology) of the University of Alberta, working with [Christina L. Cagné](https://sites.ualberta.ca/~cgagne/) and [Thomas L. Spalding](https://sites.ualberta.ca/~spalding/Site/Home.html) on projects on the processing of English compounds.
+I am currently a postdoctoral research fellow at the [Complex Cognition Lab](https://sites.ualberta.ca/~cgagne/ComplexCognitionLab/Main.html) at the [Department of Psychology](https://www.ualberta.ca/psychology) of the University of Alberta, working with [Christina L. Gagné](https://sites.ualberta.ca/~cgagne/) and [Thomas L. Spalding](https://sites.ualberta.ca/~spalding/Site/Home.html) on projects on the processing of English compounds.
 
 My [PhD dissertation](/files/Lõo_Dissertation.pdf) combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words. The research was conducted under the supervision of [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [ Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/) at the [Department of Linguistics](https://www.ualberta.ca/linguistics) of the University of Alberta.
 
