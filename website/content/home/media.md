@@ -17,4 +17,4 @@ weight = 60
 
 - A story in the Estonian journal [*Mari*](http://www.ajakirimari.ee/1272.htm) about my research and life as a PhD student in Canada (September, 2016).
 
-- A story about psycholinguistics, eye tracking and my research on the Estonian research news portal [*Novaator*](https://novaator.err.ee/686921/eesti-noorteadlane-uuris-kanadas-pilke-jalgides-eestlaste-keelekasutust) with English translation [*here*](http://researchinestonia.eu/2018/03/08/young-estonian-scientist-in-canada-studied-the-language-use-of-estonians-by-measuring-their-gaze/)(March, 2018).
+- A story about psycholinguistics, eye tracking and my research on the Estonian research news portal [*Novaator*](https://novaator.err.ee/686921/eesti-noorteadlane-uuris-kanadas-pilke-jalgides-eestlaste-keelekasutust) with English translation [*here*](http://researchinestonia.eu/2018/03/08/young-estonian-scientist-in-canada-studied-the-language-use-of-estonians-by-measuring-their-gaze/) (March, 2018).
