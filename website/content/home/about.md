@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Linguistics"
   institution = "University of Alberta, Canada"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "MA in Computational Linguistics"
@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am currently a postdoctoral research fellow at the [Complex Cognition Lab](https://sites.ualberta.ca/~cgagne/ComplexCognitionLab/Main.html) at the [Department of Psychology](https://www.ualberta.ca/psychology) of the University of Alberta, working with [Christina L. Gagné](https://sites.ualberta.ca/~cgagne/) and [Thomas L. Spalding](https://sites.ualberta.ca/~spalding/Site/Home.html) on projects on the processing of English compounds.
+I am currently a research fellow in Psycholinguistics at the [Phonetics Lab](https://www.keel.ut.ee/et/teadus/foneetikalabor) at the [Institute of Estonian and General Linguistics](https://www.keel.ut.ee/en) of the University of Tartu, working with [P\"artel Lippus](https://www.etis.ee/CV/P%C3%A4rtel_Lippus/eng) on projects on morphology in Estonian spontaneous speech.
 
 My [PhD dissertation](/files/Lõo_Dissertation.pdf) combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words. The research was conducted under the supervision of [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [ Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/) at the [Department of Linguistics](https://www.ualberta.ca/linguistics) of the University of Alberta.
 
