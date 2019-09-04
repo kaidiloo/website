@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 Kaidi Lõo. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -28,14 +28,14 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am currently a postdoctoral research fellow at the Complex Cognition Lab at the Department of Psychology of the University of Alberta, working with Christina L. Gagné and Thomas L. Spalding on projects on the processing of English compounds.
+      <description>Biography I am currently a Research Fellow in Psycholinguistics at the Phonetics Lab at the Institute of Estonian and General Linguistics of the University of Tartu, working with P\&amp;ldquo;artel Lippus on projects on morphology in Estonian spontaneous speech.
 My PhD dissertation combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce morphologically complex words.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -44,7 +44,7 @@ My PhD dissertation combined large-scale item designs, behavioural methods, and 
     <item>
       <title>Selected Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -91,7 +91,7 @@ My PhD dissertation combined large-scale item designs, behavioural methods, and 
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>

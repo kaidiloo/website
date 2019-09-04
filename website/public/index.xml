@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaidi Lõo on Kaidi Lõo</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 Kaidi Lõo. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -40,7 +39,7 @@
     <item>
       <title>Mis võimaldab meil mõista keelt? - teadmisi suurtelt andmetelt eesti keele sõnadesse.</title>
       <link>/talk/eta/</link>
-      <pubDate>Fri, 05 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0200</pubDate>
       
       <guid>/talk/eta/</guid>
       <description></description>
@@ -49,7 +48,7 @@
     <item>
       <title>Pupil dilation as a window to Estonian lexical processing.</title>
       <link>/talk/aas/</link>
-      <pubDate>Sun, 19 Feb 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0200</pubDate>
       
       <guid>/talk/aas/</guid>
       <description>&lt;p&gt;.&lt;/p&gt;
@@ -59,7 +58,7 @@
     <item>
       <title>Paradigmatic effects in Estonian inflected noun production.</title>
       <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/talk/example-talk/</guid>
       <description></description>
@@ -77,7 +76,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -268,7 +267,10 @@ git submodule update --init --recursive
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
