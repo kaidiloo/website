@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Inst. of Estonian and General Linguistics, University of Tartu", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "kaidi.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pilt_03.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kaidi dot loo at ut dot ee"
   address = "Inst. of Estonian and General Linguistics, University of Tartu, Jakobi 2, rm 405, 51014 Tartu, Estonia"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
