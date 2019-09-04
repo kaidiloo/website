@@ -60,12 +60,12 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Psychology, University of Alberta", url = "" } ]
+  organizations = [ { name = "Inst. of Estonian and General Linguistics, University of Tartu", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kaidi.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "kloo at ualberta dot ca"
-  address = "Psychology General Office P217 Biological Sciences Building Edmonton, Alberta, Canada T6G 2E9"
+  email = "kaidi dot loo at ut dot ee"
+  address = "Inst. of Estonian and General Linguistics, University of Tartu, Jakobi 2, rm 405, 51014 Tartu, Estonia"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = "kaidiloo"
@@ -99,8 +99,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "53.529169" 
-  longitude = "-113.525535"
+  latitude = "58.380620" 
+  longitude = "26.719689"
   zoom = 16
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:kloo@ualberta.ca"
+    link = "mailto:kaidi.loo@ut.ee"
 
   #[[params.social]]
    # icon = "twitter"
