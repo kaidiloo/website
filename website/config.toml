@@ -15,7 +15,7 @@ title = "Kaidi Lõo"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "Copyright &copy; 2018 Kaidi Lõo. All rights reserved."
+copyright = "Copyright &copy; 2019 Kaidi Lõo. All rights reserved."
 
 theme = "hugo-academic"
 enableEmoji = true
