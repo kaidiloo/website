@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am currently a research fellow in Psycholinguistics at the [Phonetics Lab](https://www.keel.ut.ee/et/teadus/foneetikalabor) at the [Institute of Estonian and General Linguistics](https://www.keel.ut.ee/en) of the University of Tartu, Estonia, working with [Pärtel Lippus](http://www.murre.ut.ee/~partel/) on a project on processing of elicited and spontaneous speech in Estonian, and in particular on how morphology influences these processes.
+I am currently a research fellow in Psycholinguistics at the [Phonetics Lab](https://www.keel.ut.ee/et/teadus/foneetikalabor) at the [Institute of Estonian and General Linguistics](https://www.keel.ut.ee/en) of the University of Tartu, Estonia, working with [Pärtel Lippus](http://www.murre.ut.ee/~partel/) on a project on the processing of spontaneous speech in Estonian, and in particular on how morphology influences this process.
 
 My [PhD dissertation](/files/Lõo_Dissertation.pdf) combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce case-inflected nouns in their native language.
 The research was conducted under the supervision of [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [ Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/) at the [Department of Linguistics](https://www.ualberta.ca/linguistics) of the University of Alberta.
