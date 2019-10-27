@@ -40,7 +40,7 @@ I am currently a research fellow in Psycholinguistics at the [Phonetics Lab](htt
 My [PhD dissertation](/files/Lõo_Dissertation.pdf) combined large-scale item designs, behavioural methods, and eye tracking as well as advanced statistics to investigate how adult native speakers of Estonian from a wide age range comprehend and produce case-inflected nouns in their native language.
 The research was conducted under the supervision of [Juhani Järvikivi](https://sites.ualberta.ca/~jarvikiv/) and [ Harald Baayen](http://www.sfs.uni-tuebingen.de/~hbaayen/) at the [Department of Linguistics](https://www.ualberta.ca/linguistics) of the University of Alberta.
 
-Our findings suggest word-specific knowledge, such as how often a particular word form occurs in a language or how large is its inflectional paradigm, is available early on in mental lexicon.
-This challenges a purely morpheme-based decompositional approach to language processing, often proposed in particular for languages as morphologically rich as Estonian.
+#Our findings suggest word-specific knowledge, such as how often a particular word form occurs in a language or how large is its inflectional paradigm, is available early on in mental lexicon.
+#This challenges a purely morpheme-based decompositional approach to language processing, often proposed in particular for languages as morphologically rich as Estonian.
 
 
